@@ -41,7 +41,7 @@
 </ul>
 <h3>Installation</h3>
 <ol>
-<li>Clone the Repository: https://github.com/Asim-Mulla/TraveLust-Airbnb-Clone.git</li>
+<li>Clone the Repository: https://github.com/Asim-Mulla/TraveLust.git</li>
 <li>Install Dependencies: npm install</li>
 <li>Setup Environment Variables:
 Create a .env file in the root and add the following: <br>
